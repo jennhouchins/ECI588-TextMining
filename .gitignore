@@ -37,3 +37,7 @@ vignettes/*.pdf
 
 # R Environment Variables
 .Renviron
+
+# Files that contain tokens/keys
+TwitterTokens.R
+opd_survey.csv
