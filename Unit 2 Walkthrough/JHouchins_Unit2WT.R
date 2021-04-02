@@ -17,7 +17,7 @@
 # 1 PROJECT SETUP  ################################
 if (!require("pacman")) install.packages("pacman")
 pacman::p_load(pacman, dplyr, readr, tidyr, rtweet, writexl,
-               readxl, tidytext, textdata, ggplot2, textdata, scales,
+               readxl, tidytext, textdata, ggplot2, scales,
                ggcats)
 
 ## check to see if the Twitter token is loaded
